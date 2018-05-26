@@ -1,0 +1,7 @@
+.h2{
+    margin-top: 100px;
+}
+html { 
+    background: url(bg.jpg) no-repeat center fixed; 
+    background-size: cover;
+  }
